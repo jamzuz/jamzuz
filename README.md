@@ -4,7 +4,7 @@
 
 Hi there! I'm Jesse, a freshly graduated software developer from Pori, Finland. With a Bachelor of Business Administration in Business Information Systems from Satakunta University of Applied Sciences (2024), I’m passionate about creating clean, well-designed software solutions across various fields.
 
-I’ve gained valuable experience as a software developer trainee, where I worked on various customer projects using a **Angular**. My expertise is in **Frontend Development**, particularly with **Angular**, **HTML**, **CSS**, **JavaScript**, and **TypeScript**. Additionally, I have hands-on experience in **OOP** and a range of languages including **Java**, **Python**, **C#**, and **C++**.
+I’ve gained valuable experience as a software developer trainee. I worked on various customer projects using a **Angular**. My expertise is in **Frontend Development**, particularly with **Angular**, **HTML**, **CSS**, **JavaScript**, and **TypeScript**. Additionally, I have hands-on experience in **OOP** and a range of languages including **Java**, **Python**, **C#**, and **C++**.
 
 ### Areas of Expertise:
 - Angular & Frontend Development
