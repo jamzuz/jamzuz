@@ -13,6 +13,14 @@ I’ve gained valuable experience as a software developer trainee, where I worke
 - Object-Oriented Programming
 - Fluent in both **Finnish** and **English**
 
+
+### Current interests:
+- AI image generation
+- Dabbling with locally ran LLMs
+- Creating a virtual dungeon master (checkout folio repository!)
+- Streaming
+
+  
 Always striving to be creative, thorough, and forward-thinking, I'm looking to apply my skills and grow in challenging new projects.
 
 Feel free to reach out!
